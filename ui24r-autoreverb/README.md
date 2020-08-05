@@ -1,13 +1,13 @@
 # Autoreverb for Soundcraft Ui24R
 
-## What does the Autoreverb app do?
+### What does the Autoreverb app do?
 
 Autoreverb app changes Pre-delay and Decay parameters of the Reverberation depending on the current BPM.
 It works with Soundcraft Ui24R mixer only.
 
-## Where can I find it?
+### Where can I find it?
 
-## Do I need an internet connection to use it?
+### Do I need an internet connection to use it?
 
 No, Autoreverb works offline. You need the internet connection only when you open the link the first time.
 
