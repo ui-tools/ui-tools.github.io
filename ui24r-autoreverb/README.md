@@ -25,7 +25,7 @@ No, Autoreverb works offline. You need the internet connection only when you ope
     * FX type is Reverb
     * FX preset name contains word auto (e.g.: "myautopreset", "MyAutoPreset", "auto", "Large Hall Auto", etc.)
 
-    > If at least one of these conditions is not met, AutoBypass mode turns on (no data is being sent to the mixer).
+        > If at least one of these conditions is not met, AutoBypass mode turns on (no data is being sent to the mixer).
 
 5. Turn off Bypass button
 6. Choose Total Reverb and Pre-delay duration.
